@@ -1,5 +1,21 @@
 # web3-number
 
+## Install
+```
+// npm 
+npm install web3-number --save
+
+
+// yarn
+yarn add web3-number
+```
+
+## Use
+TODO
+```
+
+```
+
 - bigNumberify: 将输入的值转换为 ethers.js 的 BigNumber 类型。
 
 - expandDecimals: 将数值扩展为指定小数位数的整数。
