@@ -1,9 +1,11 @@
 {
   "name": "web3number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The web3number npm package simplifies the handling of numerical values within the web3 environment, offering versatile functionalities for converting web3 BigNumber to human-readable formats with options for thousands separators and decimal precision. It also supports rounding down and conversion between BigNumber and ethers wei/ether.",
   "main": "dist/index.js",
-  "files": ["dist/**/*"],
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "dev": "ts-jest --watch",
     "clear": "rm -rf dist",
