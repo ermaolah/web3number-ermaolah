@@ -1,15 +1,15 @@
 # web3number
 
-> The web3number npm package simplifies the handling of numerical values within the web3 environment, offering versatile functionalities for converting web3 BigNumber to human-readable formats with options for thousands separators and decimal precision. It also supports rounding down and conversion between BigNumber and ethers wei/ether.
+> The web3number-ermaolah npm package simplifies the handling of numerical values within the web3 environment, offering versatile functionalities for converting web3 BigNumber to human-readable formats with options for thousands separators and decimal precision. It also supports rounding down and conversion between BigNumber and ethers wei/ether.
 
 ## Install
 ```
 // npm 
-npm install web3number --save
+npm install web3number-ermaolah --save
 
 
 // yarn
-yarn add web3number
+yarn add web3number-ermaolah
 ```
 
 ## Use
