@@ -1,6 +1,6 @@
 {
   "name": "web3number-ermaolah",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "The web3number npm package simplifies the handling of numerical values within the web3 environment, offering versatile functionalities for converting web3 BigNumber to human-readable formats with options for thousands separators and decimal precision. It also supports rounding down and conversion between BigNumber and ethers wei/ether.",
   "main": "dist/index.js",
   "files": [
@@ -35,11 +35,13 @@
   },
   "homepage": "https://github.com/ermaolah/web3number-ermaolah#readme",
   "dependencies": {
-	"web3_react_byeong": "^1.0.1",
+    "devchainnet-broddie": "^2.0.2",
+    "web3_react_byeong": "^1.0.1",
     "ethers": "^5.7.2"
   },
   "devDependencies": {
-	"web3_react_byeong": "^1.0.1",
+    "devchainnet-broddie": "^2.0.2",
+    "web3_react_byeong": "^1.0.1",
     "@types/jest": "^29.5.12",
     "@types/node": "^20.11.16",
     "jest": "^29.7.0",
